@@ -1864,6 +1864,7 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({});
 
 /***/ }),
@@ -19494,6 +19495,15 @@ var render = function() {
                     attrs: { "exact-active-class": "active", to: "/category" }
                   },
                   [_vm._v("Category")]
+                ),
+                _vm._v(" "),
+                _c(
+                  "router-link",
+                  {
+                    staticClass: "nav-item nav-link",
+                    attrs: { "exact-active-class": "active", to: "/login" }
+                  },
+                  [_vm._v("Login")]
                 )
               ],
               1

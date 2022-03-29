@@ -7,6 +7,7 @@
                     <div class="navbar-nav">
                         <router-link exact-active-class="active" to="/" class="nav-item nav-link">Home</router-link>
                         <router-link exact-active-class="active" to="/category" class="nav-item nav-link">Category</router-link>
+                        <router-link exact-active-class="active" to="/login" class="nav-item nav-link">Login</router-link>
                     </div>
                 </div>
             </div>
